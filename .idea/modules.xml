@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/myFamily.iml" filepath="$PROJECT_DIR$/myFamily.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningOop.iml" filepath="$PROJECT_DIR$/LearningOop.iml" />
     </modules>
   </component>
 </project>
